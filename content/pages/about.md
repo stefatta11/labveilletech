@@ -17,9 +17,9 @@ Je m’appelle Stefano Attanasio et j’ai 23 ans. Je suis actuellement en 3ème
 Ma plus grande passion: le foot. Je peux en consommer matin, midi et soir! Et à n’importe quelle sauce. Ca peut être un match à la télé, dans la vraie vie, sous forme de jeux vidéos et peu importe la catégorie. Tant qu’il y a un ballon et 22 joueurs, je suis content. 
 
 ## Mon Ikigai
-![image](/labveilletech/static/images/ikigai.png)
+![image](labveilletech/static/images/ikigai.png)
 <!-- image: ikigai.png -->
 
 
 ## Ma fiche de domaine
-![image](/labveilletech/static/images/fichededomaine.png)
+![image](labveilletech/static/images/fichededomaine.png)
